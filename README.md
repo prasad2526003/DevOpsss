@@ -1,2 +1,2 @@
 # DevOpsss
-Temporary repository for our jira software
+Temporary repository for jira software
